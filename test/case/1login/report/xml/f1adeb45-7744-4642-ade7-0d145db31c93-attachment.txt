@@ -1,0 +1,90 @@
+test_login_1.py             43 INFO     验证断网情况下登录页面显示
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/appium/app/reset {"sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/appium/app/reset HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+mobile_operating.py         72 INFO     APP重置成功
+__init__.py                 71 INFO     点击【跳过】
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/appium/device/current_activity {"sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "GET /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/appium/device/current_activity HTTP/1.1" 200 63
+remote_connection.py       440 DEBUG    Finished Request
+__init__.py                 64 INFO     等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element {"using": "id", "value": "com.cmic.college:id/skip_btn", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element HTTP/1.1" 200 137
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/1337c777-6bba-444e-9129-8cd1e3154ac6/click {"id": "1337c777-6bba-444e-9129-8cd1e3154ac6", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/1337c777-6bba-444e-9129-8cd1e3154ac6/click HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+__init__.py                 47 INFO     点击元素com.cmic.college:id/skip_btn
+__init__.py                 78 INFO     点击【跳过】成功!
+__init__.py                 71 INFO     点击【权限弹窗确认】
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/appium/device/current_activity {"sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "GET /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/appium/device/current_activity HTTP/1.1" 200 63
+remote_connection.py       440 DEBUG    Finished Request
+__init__.py                 64 INFO     等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element {"using": "id", "value": "com.cmic.college:id/btnConfirm", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element HTTP/1.1" 200 137
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/ace3e256-d905-4ff9-859e-38eb2dd5b3ca/click {"id": "ace3e256-d905-4ff9-859e-38eb2dd5b3ca", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/ace3e256-d905-4ff9-859e-38eb2dd5b3ca/click HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+__init__.py                 47 INFO     点击元素com.cmic.college:id/btnConfirm
+__init__.py                 78 INFO     点击【权限弹窗确认】成功!
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element {"using": "id", "value": "com.android.packageinstaller:id/permission_allow_button", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element HTTP/1.1" 200 137
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/e4944872-03b8-49f9-89c8-4a60804600ac/click {"id": "e4944872-03b8-49f9-89c8-4a60804600ac", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/e4944872-03b8-49f9-89c8-4a60804600ac/click HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+__init__.py                 47 INFO     点击元素com.android.packageinstaller:id/permission_allow_button
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element {"using": "id", "value": "com.android.packageinstaller:id/permission_allow_button", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element HTTP/1.1" 200 137
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/37a65897-7efb-4601-9e35-6d7cc078f7b4/click {"id": "37a65897-7efb-4601-9e35-6d7cc078f7b4", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/37a65897-7efb-4601-9e35-6d7cc078f7b4/click HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+__init__.py                 47 INFO     点击元素com.android.packageinstaller:id/permission_allow_button
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element {"using": "id", "value": "com.android.packageinstaller:id/permission_allow_button", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element HTTP/1.1" 200 137
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/d88ad7a0-10c6-4948-b05b-0a6d3fe75a9b/click {"id": "d88ad7a0-10c6-4948-b05b-0a6d3fe75a9b", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/d88ad7a0-10c6-4948-b05b-0a6d3fe75a9b/click HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+__init__.py                 47 INFO     点击元素com.android.packageinstaller:id/permission_allow_button
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/network_connection {"parameters": {"type": 1}, "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/network_connection HTTP/1.1" 200 11
+remote_connection.py       440 DEBUG    Finished Request
+mobile_operating.py         19 INFO     飞行模式开启成功
+__init__.py                 94 INFO     检查元素名称是否为【网络不可用，请检查网络设置】
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/appium/device/current_activity {"sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "GET /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/appium/device/current_activity HTTP/1.1" 200 68
+remote_connection.py       440 DEBUG    Finished Request
+__init__.py                 64 INFO     等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element {"using": "id", "value": "com.cmic.college:id/tv_error_content", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element HTTP/1.1" 200 137
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/f25c8844-6699-4669-94ae-ab356e69300b/text {"id": "f25c8844-6699-4669-94ae-ab356e69300b", "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "GET /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/element/f25c8844-6699-4669-94ae-ab356e69300b/text HTTP/1.1" 200 113
+remote_connection.py       440 DEBUG    Finished Request
+__init__.py                102 INFO     页面元素【('id', 'com.cmic.college:id/tv_error_content')】对应text值【网络不可用，请检查网络设置】正确
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/network_connection {"parameters": {"type": 4}, "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/network_connection HTTP/1.1" 200 11
+remote_connection.py       440 DEBUG    Finished Request
+mobile_operating.py         29 INFO     网络数据模式开启成功

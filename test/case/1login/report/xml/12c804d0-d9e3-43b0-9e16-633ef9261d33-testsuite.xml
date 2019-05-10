@@ -1,0 +1,57 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1557388412880" stop="1557388620998">
+  <name>__init__</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1557388412880" status="passed" stop="1557388454818">
+      <name>test_login_1.Test_1.test_login_1</name>
+      <attachments>
+        <attachment source="aa677865-75fc-4fd7-ab87-f1f4dd85691d-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="0bb91b6e-579b-4cae-8cc0-626dc11079a8-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="验证登录号码是否为指定号码"/>
+        <label name="feature" value="购物车功能"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15088-MainThread"/>
+        <label name="host" value="C43HNT6RBHSON97"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1557388458000" status="passed" stop="1557388538142">
+      <name>test_login_1.Test_1.test_login_2</name>
+      <attachments>
+        <attachment source="4d0ef837-05b0-4714-a516-e9a8e557f690-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="f1adeb45-7744-4642-ade7-0d145db31c93-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="验证断网情况下登录页面显示"/>
+        <label name="feature" value="购物车功能"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15088-MainThread"/>
+        <label name="host" value="C43HNT6RBHSON97"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1557388541786" status="passed" stop="1557388620998">
+      <name>test_login_1.Test_1.test_login_3</name>
+      <attachments>
+        <attachment source="8fbfa816-66b4-49b5-b23c-f2294168416c-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="be670d4f-da46-42e2-91d7-8bc20067a8e1-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="验证登录成功进入主页是否成功"/>
+        <label name="feature" value="购物车功能"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15088-MainThread"/>
+        <label name="host" value="C43HNT6RBHSON97"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

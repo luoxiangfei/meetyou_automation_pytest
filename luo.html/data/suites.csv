@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 06 16:53:41 CST 2019","Mon May 06 16:53:42 CST 2019","1002","","__init__","","__init__","test_login_3.TestDemo.test_demo2","test_login_3.TestDemo.test_demo2"," 测试描述 "
+"passed","Mon May 06 16:53:38 CST 2019","Mon May 06 16:53:41 CST 2019","3003","","__init__","","__init__","test_login_3.TestDemo.test_demo1","test_login_3.TestDemo.test_demo1"," 测试描述 "

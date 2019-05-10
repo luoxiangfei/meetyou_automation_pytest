@@ -1,0 +1,42 @@
+[35m[Appium][39m Welcome to Appium v1.12.0
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   address: 127.0.0.1
+[35m[Appium][39m   port: 4725
+[35m[Appium][39m   bootstrapPort: 4726
+[35m[Appium][39m Appium REST http interface listener started on 127.0.0.1:4725
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"firstMatch":[{"platformName":"Android","appium:platformVersion":6,"appium:deviceName":"192.168.2.158:5555","appium:appPackage":"com.cmic.college","appium:udid":"192.168.2.158:5555","appium:appActivity":"com.cmcc.cmrcs.android.ui.activities.WelcomeActivity","appium:noReset":true,"appium:unicodeKeyboard":true,"appium:resetKeyboard":true,"appium:automationName":"uiautomator2"}]},"desiredCapabilities":{"platformName":"Android","platformVersion":6,"deviceName":"192.168.2.158:5555","appPackage":"com.cmic.college","udid":"192.168.2.158:5555","appActivity":"com.cmcc.cmrcs.android.ui.activities.WelcomeActivity","noReset":true,"unicodeKeyboard":true,"resetKeyboard":true,"automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","platformVersion":6,"deviceName":"192.168.2.158:5555","appPackage":"com.cmic.college","udid":"192.168.2.158:5555","appActivity":"com.cmcc.cmrcs.android.ui.activities.WelcomeActivity","noReset":true,"unicodeKeyboard":true,"resetKeyboard":true,"automationName":"uiautomator2"},null,{"firstMatch":[{"platformName":"Android","appium:platformVersion":6,"appium:deviceName":"192.168.2.158:5555","appium:appPackage":"com.cmic.college","appium:udid":"192.168.2.158:5555","appium:appActivity":"com.cmcc.cmrcs.android.ui.activities.WelcomeActivity","appium:noReset":true,"appium:unicodeKeyboard":true,"appium:resetKeyboard":true,"appium:automationName":"uiautomator2"}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1557480690836 (17:31:30 GMT+0800 (GMT+08:00))
+[35m[Appium][39m Appium v1.12.0 creating new AndroidUiautomator2Driver (v1.33.1) session
+[35m[Appium][39m Capabilities:
+[35m[Appium][39m   platformName: Android
+[35m[Appium][39m   platformVersion: 6
+[35m[Appium][39m   deviceName: 192.168.2.158:5555
+[35m[Appium][39m   appPackage: com.cmic.college
+[35m[Appium][39m   udid: 192.168.2.158:5555
+[35m[Appium][39m   appActivity: com.cmcc.cmrcs.android.ui.activities.WelcomeActivity
+[35m[Appium][39m   noReset: true
+[35m[Appium][39m   unicodeKeyboard: true
+[35m[Appium][39m   resetKeyboard: true
+[35m[Appium][39m   automationName: uiautomator2
+[debug] [35m[BaseDriver][39m W3C capabilities {"alwaysMatch":{"platformNa... and MJSONWP desired capabilities {"platformName":"Android","... were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {"alwaysMatch":{"platformNa...
+[35m[BaseDriver][39m Session created with session id: 5ee3198e-4ad4-4f6d-bbe5-0c02c9c82256
+[35m[ADB][39m Found 1 'build-tools' folders under 'D:\ANDROID_SDK' (newest first):
+[35m[ADB][39m     D:/ANDROID_SDK/build-tools/28.0.3
+[35m[ADB][39m Using 'adb.exe' from 'D:\ANDROID_SDK\platform-tools\adb.exe'
+[35m[AndroidDriver][39m Retrieving device list
+[debug] [35m[ADB][39m Trying to find a connected android device
+[debug] [35m[ADB][39m Getting connected devices...
+[debug] [35m[ADB][39m 1 device(s) connected
+[35m[AndroidDriver][39m Error: Device 192.168.2.158:5555 was not in the list of connected devices
+[35m[AndroidDriver][39m     at Object.wrappedLogger.errorAndThrow (C:\Users\Administrator\AppData\Roaming\npm\node_modules\appium\node_modules\_appium-support@2.27.0@appium-support\lib\logging.js:78:13)
+[35m[AndroidDriver][39m     at Object.errorAndThrow [as getDeviceInfoFromCaps] (C:\Users\Administrator\AppData\Roaming\npm\node_modules\appium\node_modules\_appium-android-driver@4.15.1@appium-android-driver\lib\android-helpers.js:199:16)
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1557480691507 (17:31:31 GMT+0800 (GMT+08:00))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: Device 192.168.2.158:5555 was not in the list of connected devices
+[debug] [35m[W3C][39m     at Object.wrappedLogger.errorAndThrow (C:\Users\Administrator\AppData\Roaming\npm\node_modules\appium\node_modules\_appium-support@2.27.0@appium-support\lib\logging.js:78:13)
+[debug] [35m[W3C][39m     at Object.errorAndThrow [as getDeviceInfoFromCaps] (C:\Users\Administrator\AppData\Roaming\npm\node_modules\appium\node_modules\_appium-android-driver@4.15.1@appium-android-driver\lib\android-helpers.js:199:16)
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[31m500[39m [90m683 ms - 763[39m
+[35m[HTTP][39m [90m[39m

@@ -1,0 +1,43 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "购物车功能",
+    "children" : [ {
+      "name" : "加入购物车",
+      "children" : [ {
+        "name" : "test_login_3.TestDemo.test_demo1",
+        "uid" : "56248c46905247d7",
+        "parentUid" : "ed338301c086e720db609d05a252abd1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1557132818772,
+          "stop" : 1557132821775,
+          "duration" : 3003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ed338301c086e720db609d05a252abd1"
+    }, {
+      "name" : "修改购物车",
+      "children" : [ {
+        "name" : "test_login_3.TestDemo.test_demo2",
+        "uid" : "c90ffb879543f0b9",
+        "parentUid" : "ae6d31c7cac134cf64ad933d19936493",
+        "status" : "passed",
+        "time" : {
+          "start" : 1557132821775,
+          "stop" : 1557132822777,
+          "duration" : 1002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ae6d31c7cac134cf64ad933d19936493"
+    } ],
+    "uid" : "13107ad838d9e0b8da43e1b977ff0d34"
+  } ]
+}

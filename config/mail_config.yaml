@@ -1,0 +1,10 @@
+title: 邮件标题
+message: 邮件正文
+path: 附件路径
+addresser: 13981943447@139.com    #发送人地址
+addressee:                        #收件人地址
+    - 290958890@qq.com
+    - 240080267@qq.com
+smtp: smtp.139.com                #smtp地址
+user: 13981943447@139.com         #发送邮箱账号
+passwd: a13694245189                 #邮箱密码

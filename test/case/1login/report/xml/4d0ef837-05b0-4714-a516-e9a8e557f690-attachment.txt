@@ -1,0 +1,16 @@
+test_login_1.py             22 INFO     ========登录模块测试用例执行开始========【2】========
+get_phone.py                29 INFO     【LE67A06290097275】设备连接正常
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:platformVersion": 6.0, "appium:deviceName": "LE67A06290097275", "appium:appPackage": "com.cmic.college", "appium:udid": "LE67A06290097275", "appium:appActivity": "com.cmcc.cmrcs.android.ui.activities.WelcomeActivity", "appium:noReset": true, "appium:unicodeKeyboard": true, "appium:resetKeyboard": true, "appium:automationName": "uiautomator2"}]}, "desiredCapabilities": {"platformName": "Android", "platformVersion": 6.0, "deviceName": "LE67A06290097275", "appPackage": "com.cmic.college", "udid": "LE67A06290097275", "appActivity": "com.cmcc.cmrcs.android.ui.activities.WelcomeActivity", "noReset": true, "unicodeKeyboard": true, "resetKeyboard": true, "automationName": "uiautomator2"}}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 1144
+remote_connection.py       440 DEBUG    Finished Request
+driver.py                   42 INFO     【LE_X620】连接【com.cmic.college】成功
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/timeouts {"implicit": 20000, "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/timeouts HTTP/1.1" 200 14
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:4723/wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/network_connection {"parameters": {"type": 4}, "sessionId": "01a344ab-d1a4-4f97-a549-f060421258d9"}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4723
+connectionpool.py          393 DEBUG    http://127.0.0.1:4723 "POST /wd/hub/session/01a344ab-d1a4-4f97-a549-f060421258d9/network_connection HTTP/1.1" 200 11
+remote_connection.py       440 DEBUG    Finished Request
+mobile_operating.py         29 INFO     网络数据模式开启成功

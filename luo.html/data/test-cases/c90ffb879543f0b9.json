@@ -1,0 +1,74 @@
+{
+  "uid" : "c90ffb879543f0b9",
+  "name" : "test_login_3.TestDemo.test_demo2",
+  "fullName" : "__init__.test_login_3.TestDemo.test_demo2",
+  "historyId" : "807070a35af4895747aec6cda9df9150",
+  "time" : {
+    "start" : 1557132821775,
+    "stop" : 1557132822777,
+    "duration" : 1002
+  },
+  "description" : " 测试描述 ",
+  "descriptionHtml" : "<p>测试描述</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "购物车功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "C43HNT6RBHSON97"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "修改购物车"
+  }, {
+    "name" : "testId",
+    "value" : "测试用例名称"
+  }, {
+    "name" : "thread",
+    "value" : "9332-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "__init__"
+  }, {
+    "name" : "testClass",
+    "value" : "__init__"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_login_3.TestDemo.test_demo2"
+  }, {
+    "name" : "package",
+    "value" : "__init__"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例名称",
+    "url" : "测试用例名称",
+    "type" : "tms"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c90ffb879543f0b9.json",
+  "parameterValues" : [ ]
+}

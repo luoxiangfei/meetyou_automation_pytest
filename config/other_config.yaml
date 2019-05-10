@@ -1,0 +1,5 @@
+# 其他配置(不好分类的配置)
+# UI界面截取内存卡路径
+mobile_screencap_path : '/sdcard/automator'
+# UI界面截取PC路径
+pc_screencap_path: 'E:/automator'

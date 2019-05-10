@@ -1,0 +1,122 @@
+{
+  "uid" : "56248c46905247d7",
+  "name" : "test_login_3.TestDemo.test_demo1",
+  "fullName" : "__init__.test_login_3.TestDemo.test_demo1",
+  "historyId" : "777e4b2efb9ee02a9db67b01f0528f28",
+  "time" : {
+    "start" : 1557132818772,
+    "stop" : 1557132821775,
+    "duration" : 3003
+  },
+  "description" : " 测试描述 ",
+  "descriptionHtml" : "<p>测试描述</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "浏览商品",
+      "time" : {
+        "start" : 1557132818774,
+        "stop" : 1557132819775,
+        "duration" : 1001
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "点击商品",
+      "time" : {
+        "start" : 1557132819775,
+        "stop" : 1557132820775,
+        "duration" : 1000
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "校验结果",
+      "time" : {
+        "start" : 1557132820775,
+        "stop" : 1557132821775,
+        "duration" : 1000
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "购物车功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "C43HNT6RBHSON97"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "加入购物车"
+  }, {
+    "name" : "thread",
+    "value" : "9332-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "__init__"
+  }, {
+    "name" : "testClass",
+    "value" : "__init__"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_login_3.TestDemo.test_demo1"
+  }, {
+    "name" : "package",
+    "value" : "__init__"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56248c46905247d7.json",
+  "parameterValues" : [ ]
+}

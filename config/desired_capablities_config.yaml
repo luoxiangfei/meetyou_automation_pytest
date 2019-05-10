@@ -1,0 +1,30 @@
+LE_X620:
+        phone_number_1: 15169032569
+        phone_number_2: null
+        platformName: Android
+        platformVersion: 6.0
+        deviceName: LE67A06290097275                                   #LE67A06290097275
+        uuid: LE67A06290097275                                         #192.168.3.138:5555
+        appPackage: com.cmic.college
+        appActivity: com.cmcc.cmrcs.android.ui.activities.WelcomeActivity
+        unicodeKeyboard: true
+        resetKeyboard: true
+        noReset: true
+        automationName: uiautomator2
+        ip: 127.0.0.1
+        port: 4723
+PIXEL_XL:
+        phone_number_1: 13694245189
+        phone_number_2: null
+        platformName: Android
+        platformVersion: 6.0
+        deviceName: 192.168.2.158:5555                                  #LE67A06290097275
+        uuid: 192.168.2.158:5555                                         #192.168.3.140:5555
+        appPackage: com.cmic.college
+        appActivity: com.cmcc.cmrcs.android.ui.activities.WelcomeActivity
+        unicodeKeyboard: true
+        resetKeyboard: true
+        noReset: true
+        automationName: uiautomator2
+        ip: 127.0.0.1
+        port: 4725

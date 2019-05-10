@@ -1,0 +1,756 @@
+2019-05-09 15:06:57,512 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-09 15:06:57,582 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 15:07:13,174 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 15:07:18,122 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 15:07:18,123 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-09 15:07:22,626 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 15:07:22,627 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 15:07:22,775 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:07:23,341 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 15:07:23,341 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 15:07:23,342 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 15:07:23,467 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:07:24,419 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 15:07:24,419 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 15:07:26,242 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:07:27,394 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:07:28,619 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:07:28,620 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-09 15:07:31,154 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 15:07:31,980 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-09 15:07:31,981 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 15:07:34,861 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【2】========
+2019-05-09 15:07:34,914 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 15:47:50,221 - meetyou_auto - 35 - INFO - 验证登录号码是否为指定号码
+2019-05-09 15:47:50,252 - meetyou_auto - 43 - INFO - 验证断网情况下登录页面显示
+2019-05-09 15:47:50,256 - meetyou_auto - 54 - INFO - 验证登录成功进入主页是否成功
+2019-05-09 15:51:18,055 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 15:51:30,680 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 15:51:35,819 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 15:51:35,820 - meetyou_auto - 28 - INFO - 验证登录号码是否为指定号码
+2019-05-09 15:51:39,523 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 15:51:39,523 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 15:51:39,666 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:51:40,731 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 15:51:40,731 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 15:51:40,731 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 15:51:40,864 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:51:41,777 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 15:51:41,777 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 15:51:43,342 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:51:44,478 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:51:45,750 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:51:45,750 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-09 15:51:48,434 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 15:51:51,284 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-09 15:51:54,641 - meetyou_auto - 37 - INFO - 验证断网情况下登录页面显示
+2019-05-09 15:51:54,688 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 15:52:08,219 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 15:52:13,640 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 15:52:17,521 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 15:52:17,521 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 15:52:17,673 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:52:18,871 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 15:52:18,871 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 15:52:18,872 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 15:52:19,027 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:52:19,964 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 15:52:19,964 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 15:53:32,882 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-09 15:53:32,949 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 15:53:37,971 - meetyou_auto - 45 - WARNING - 【LE_X620】连接【com.cmic.college】异常，重启APPIUM服务再次连接
+2019-05-09 15:53:38,974 - meetyou_auto - 29 - INFO - port 4723不存在，可以使用 
+2019-05-09 15:53:40,034 - meetyou_auto - 19 - INFO - appium服务127.0.0.1，端口4723启动成功
+2019-05-09 15:54:00,884 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 15:54:00,885 - meetyou_auto - 35 - INFO - 验证登录号码是否为指定号码
+2019-05-09 15:54:04,738 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 15:54:04,738 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 15:54:04,849 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:54:06,016 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 15:54:06,016 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 15:54:06,017 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 15:54:06,130 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:54:07,121 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 15:54:07,121 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 15:54:08,915 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:54:10,075 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:54:11,354 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:54:11,354 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-09 15:54:13,747 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 15:54:14,816 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-09 15:54:14,818 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 15:54:18,000 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【2】========
+2019-05-09 15:54:18,051 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 15:54:36,043 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 15:54:45,139 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 15:54:45,141 - meetyou_auto - 43 - INFO - 验证断网情况下登录页面显示
+2019-05-09 15:54:49,494 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 15:54:49,494 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 15:54:49,641 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:54:50,986 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 15:54:50,986 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 15:54:50,987 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 15:54:51,105 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:54:52,082 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 15:54:52,083 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 15:54:53,743 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:54:54,899 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:54:56,207 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:55:06,033 - meetyou_auto - 19 - INFO - 飞行模式开启成功
+2019-05-09 15:55:08,035 - meetyou_auto - 94 - INFO - 检查元素名称是否为【网络不可用，请检查网络设置】
+2019-05-09 15:55:08,222 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 15:55:08,324 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_error_content')】对应text值【网络不可用，请检查网络设置】正确
+2019-05-09 15:55:36,141 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 15:55:38,142 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 15:55:41,786 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【3】========
+2019-05-09 15:55:41,842 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 15:56:01,185 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 15:56:10,559 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 15:56:10,559 - meetyou_auto - 54 - INFO - 验证登录成功进入主页是否成功
+2019-05-09 15:56:17,388 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 15:56:17,388 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 15:56:17,552 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:56:19,347 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 15:56:19,347 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 15:56:19,347 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 15:56:19,495 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 15:56:20,557 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 15:56:20,557 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 15:56:22,406 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:56:23,588 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:56:24,860 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:56:24,860 - meetyou_auto - 71 - INFO - 点击【一键登录】
+2019-05-09 15:56:30,815 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 15:56:33,094 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/one_key_login
+2019-05-09 15:56:33,095 - meetyou_auto - 78 - INFO - 点击【一键登录】成功!
+2019-05-09 15:56:33,095 - meetyou_auto - 71 - INFO - 点击【登录弹窗确定】
+2019-05-09 15:56:33,253 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 15:56:34,358 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 15:56:34,358 - meetyou_auto - 78 - INFO - 点击【登录弹窗确定】成功!
+2019-05-09 15:56:55,834 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 15:56:55,834 - meetyou_auto - 71 - INFO - 点击【通讯录tab】
+2019-05-09 15:56:56,063 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 15:56:59,164 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-09 15:56:59,164 - meetyou_auto - 78 - INFO - 点击【通讯录tab】成功!
+2019-05-09 15:56:59,164 - meetyou_auto - 71 - INFO - 点击【通讯录tab】
+2019-05-09 15:56:59,365 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 15:57:00,053 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-09 15:57:00,053 - meetyou_auto - 78 - INFO - 点击【通讯录tab】成功!
+2019-05-09 15:57:00,053 - meetyou_auto - 94 - INFO - 检查元素名称是否为【通讯录】
+2019-05-09 15:57:00,236 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 15:57:00,998 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tvContact')】对应text值【通讯录】正确
+2019-05-09 15:57:00,998 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 16:39:21,115 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-09 16:39:21,187 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 16:39:34,210 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 16:39:39,189 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 16:39:39,189 - meetyou_auto - 35 - INFO - 验证登录号码是否为指定号码
+2019-05-09 16:39:43,161 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 16:39:43,162 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 16:39:43,337 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 16:39:44,384 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 16:39:44,385 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 16:39:44,385 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 16:39:44,516 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 16:39:45,439 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 16:39:45,439 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 16:39:47,571 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:39:48,786 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:39:50,023 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:39:50,024 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-09 16:39:52,541 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 16:39:53,368 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-09 16:39:53,370 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 16:39:56,035 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【2】========
+2019-05-09 16:39:56,103 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 16:40:12,610 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 16:40:18,930 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 16:40:18,932 - meetyou_auto - 43 - INFO - 验证断网情况下登录页面显示
+2019-05-09 16:40:22,804 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 16:40:22,805 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 16:40:22,939 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 16:40:24,152 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 16:40:24,152 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 16:40:24,153 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 16:40:24,267 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 16:40:25,237 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 16:40:25,237 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 16:40:27,086 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:40:28,237 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:40:29,469 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:40:36,022 - meetyou_auto - 19 - INFO - 飞行模式开启成功
+2019-05-09 16:40:38,023 - meetyou_auto - 94 - INFO - 检查元素名称是否为【网络不可用，请检查网络设置】
+2019-05-09 16:40:38,219 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 16:40:38,322 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_error_content')】对应text值【网络不可用，请检查网络设置】正确
+2019-05-09 16:40:54,908 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 16:40:56,911 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 16:41:00,051 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【3】========
+2019-05-09 16:41:00,125 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 16:41:18,216 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 16:41:25,814 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 16:41:25,814 - meetyou_auto - 54 - INFO - 验证登录成功进入主页是否成功
+2019-05-09 16:41:31,546 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 16:41:31,546 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 16:41:31,744 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 16:41:33,176 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 16:41:33,177 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 16:41:33,177 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 16:41:33,374 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 16:41:34,298 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 16:41:34,298 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 16:41:36,423 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:41:37,571 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:41:38,815 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:41:38,815 - meetyou_auto - 71 - INFO - 点击【一键登录】
+2019-05-09 16:41:43,710 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 16:41:45,075 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/one_key_login
+2019-05-09 16:41:45,076 - meetyou_auto - 78 - INFO - 点击【一键登录】成功!
+2019-05-09 16:41:45,076 - meetyou_auto - 71 - INFO - 点击【登录弹窗确定】
+2019-05-09 16:41:45,236 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 16:41:46,202 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 16:41:46,202 - meetyou_auto - 78 - INFO - 点击【登录弹窗确定】成功!
+2019-05-09 16:42:04,522 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 16:42:04,522 - meetyou_auto - 71 - INFO - 点击【通讯录tab】
+2019-05-09 16:42:04,757 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 16:42:07,759 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-09 16:42:07,760 - meetyou_auto - 78 - INFO - 点击【通讯录tab】成功!
+2019-05-09 16:42:07,760 - meetyou_auto - 71 - INFO - 点击【通讯录tab】
+2019-05-09 16:42:07,970 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 16:42:08,670 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-09 16:42:08,671 - meetyou_auto - 78 - INFO - 点击【通讯录tab】成功!
+2019-05-09 16:42:08,671 - meetyou_auto - 94 - INFO - 检查元素名称是否为【通讯录】
+2019-05-09 16:42:08,876 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 16:42:10,460 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tvContact')】对应text值【通讯录】正确
+2019-05-09 16:42:10,462 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 16:42:18,841 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-09 16:42:18,962 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 16:42:38,088 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 16:42:38,089 - meetyou_auto - 33 - INFO - 测试视频通话对方接通后页面
+2019-05-09 16:42:38,280 - meetyou_auto - 31 - ERROR - 【192.168.2.158:5555】设备不存在
+2019-05-09 16:42:43,298 - meetyou_auto - 45 - WARNING - 【PIXEL_XL】连接【com.cmic.college】异常，重启APPIUM服务再次连接
+2019-05-09 16:42:44,312 - meetyou_auto - 29 - INFO - port 4725不存在，可以使用 
+2019-05-09 16:42:45,368 - meetyou_auto - 19 - INFO - appium服务127.0.0.1，端口4725启动成功
+2019-05-09 16:42:47,622 - meetyou_auto - 51 - ERROR - 手机连接异常，请检查手机连接，Message: An unknown server-side error occurred while processing the command. Original error: Device 192.168.2.158:5555 was not in the list of connected devices
+
+2019-05-09 16:42:52,623 - meetyou_auto - 71 - INFO - 点击【通讯录】
+2019-05-09 16:42:52,780 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 16:42:52,997 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-09 16:42:52,998 - meetyou_auto - 78 - INFO - 点击【通讯录】成功!
+2019-05-09 16:42:54,998 - meetyou_auto - 106 - INFO - 点击【13694245189】
+2019-05-09 16:42:55,177 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 16:42:58,855 - meetyou_auto - 47 - INFO - 点击元素new UiSelector().text("13694245189")
+2019-05-09 16:42:58,856 - meetyou_auto - 114 - INFO - 点击【13694245189】成功!
+2019-05-09 16:42:58,856 - meetyou_auto - 71 - INFO - 点击【拨打视频通话按钮】
+2019-05-09 16:43:09,203 - meetyou_auto - 62 - ERROR - 等待页面失败: com.cmcc.cmrcs.android.ui.activities.ContactDetailActivity
+2019-05-09 16:43:09,203 - meetyou_auto - 73 - ERROR - 等待页面失败!, 未点击【拨打视频通话按钮】!
+2019-05-09 16:43:09,203 - meetyou_auto - 94 - INFO - 检查元素名称是否为【正在等待对方接听...】
+2019-05-09 16:43:19,469 - meetyou_auto - 62 - ERROR - 等待页面失败: com.chinamobile.app.yuliao_business.ui.activity.VoiceCallActivity
+2019-05-09 16:43:19,469 - meetyou_auto - 96 - ERROR - 等待页面失败!未进行下一步操作
+2019-05-09 16:43:20,188 - meetyou_auto - 76 - INFO - E:\python_project\meetyou_automation_pytest\report\picture_save\20190509\164319.png图片保存成功
+2019-05-09 16:43:20,188 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 17:50:43,124 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-09 17:50:43,201 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 17:50:56,498 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 17:51:01,846 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 17:51:01,847 - meetyou_auto - 35 - INFO - 验证登录号码是否为指定号码
+2019-05-09 17:51:05,855 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 17:51:05,856 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 17:51:06,007 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 17:51:07,125 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 17:51:07,126 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 17:51:07,126 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 17:51:07,298 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 17:51:08,162 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 17:51:08,163 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 17:51:10,242 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:51:11,414 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:51:12,625 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:51:12,626 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-09 17:51:15,141 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 17:51:15,816 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-09 17:51:15,817 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 17:51:18,640 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【2】========
+2019-05-09 17:51:18,713 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 17:51:35,382 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 17:51:41,634 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 17:51:41,636 - meetyou_auto - 43 - INFO - 验证断网情况下登录页面显示
+2019-05-09 17:51:45,552 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 17:51:45,552 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 17:51:45,678 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 17:51:46,901 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 17:51:46,902 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 17:51:46,902 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 17:51:47,035 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 17:51:48,006 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 17:51:48,006 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 17:51:49,858 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:51:50,990 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:51:52,335 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:51:58,846 - meetyou_auto - 19 - INFO - 飞行模式开启成功
+2019-05-09 17:52:00,848 - meetyou_auto - 94 - INFO - 检查元素名称是否为【网络不可用，请检查网络设置】
+2019-05-09 17:52:01,026 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 17:52:01,108 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_error_content')】对应text值【网络不可用，请检查网络设置】正确
+2019-05-09 17:52:21,418 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 17:52:23,420 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 17:52:26,241 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【3】========
+2019-05-09 17:52:26,318 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 17:52:43,733 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 17:52:51,866 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 17:52:51,867 - meetyou_auto - 54 - INFO - 验证登录成功进入主页是否成功
+2019-05-09 17:52:57,565 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 17:52:57,565 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 17:52:57,703 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 17:52:59,116 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 17:52:59,116 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 17:52:59,116 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 17:52:59,283 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 17:53:00,250 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 17:53:00,251 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 17:53:01,856 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:53:03,030 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:53:04,342 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:53:04,342 - meetyou_auto - 71 - INFO - 点击【一键登录】
+2019-05-09 17:53:09,276 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 17:53:10,354 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/one_key_login
+2019-05-09 17:53:10,354 - meetyou_auto - 78 - INFO - 点击【一键登录】成功!
+2019-05-09 17:53:10,355 - meetyou_auto - 71 - INFO - 点击【登录弹窗确定】
+2019-05-09 17:53:10,540 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 17:53:11,127 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 17:53:11,128 - meetyou_auto - 78 - INFO - 点击【登录弹窗确定】成功!
+2019-05-09 17:53:30,153 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 17:53:30,153 - meetyou_auto - 71 - INFO - 点击【通讯录tab】
+2019-05-09 17:53:30,420 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 17:53:33,411 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-09 17:53:33,412 - meetyou_auto - 78 - INFO - 点击【通讯录tab】成功!
+2019-05-09 17:53:33,412 - meetyou_auto - 71 - INFO - 点击【通讯录tab】
+2019-05-09 17:53:33,587 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 17:53:34,273 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-09 17:53:34,273 - meetyou_auto - 78 - INFO - 点击【通讯录tab】成功!
+2019-05-09 17:53:34,273 - meetyou_auto - 94 - INFO - 检查元素名称是否为【通讯录】
+2019-05-09 17:53:34,414 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 17:53:35,144 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tvContact')】对应text值【通讯录】正确
+2019-05-09 17:53:35,147 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 17:53:43,680 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-09 17:53:43,836 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 17:54:03,372 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 17:54:03,373 - meetyou_auto - 33 - INFO - 测试视频通话对方接通后页面
+2019-05-09 17:54:03,464 - meetyou_auto - 31 - ERROR - 【192.168.2.158:5555】设备不存在
+2019-05-09 17:54:04,051 - meetyou_auto - 45 - WARNING - 【PIXEL_XL】连接【com.cmic.college】异常，重启APPIUM服务再次连接
+2019-05-09 17:54:04,052 - meetyou_auto - 32 - ERROR - port 4725 已经存在
+2019-05-09 17:54:04,161 - meetyou_auto - 45 - INFO - 4725端口下的进程10920关闭成功
+2019-05-09 17:54:05,191 - meetyou_auto - 19 - INFO - appium服务127.0.0.1，端口4725启动成功
+2019-05-09 17:54:07,426 - meetyou_auto - 51 - ERROR - 手机连接异常，请检查手机连接，Message: An unknown server-side error occurred while processing the command. Original error: Device 192.168.2.158:5555 was not in the list of connected devices
+
+2019-05-09 17:54:12,427 - meetyou_auto - 71 - INFO - 点击【通讯录】
+2019-05-09 17:54:12,662 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 17:54:12,856 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-09 17:54:12,857 - meetyou_auto - 78 - INFO - 点击【通讯录】成功!
+2019-05-09 17:54:14,857 - meetyou_auto - 106 - INFO - 点击【13694245189】
+2019-05-09 17:54:15,027 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 17:54:18,897 - meetyou_auto - 47 - INFO - 点击元素new UiSelector().text("13694245189")
+2019-05-09 17:54:18,898 - meetyou_auto - 114 - INFO - 点击【13694245189】成功!
+2019-05-09 17:54:18,898 - meetyou_auto - 71 - INFO - 点击【拨打视频通话按钮】
+2019-05-09 17:54:29,089 - meetyou_auto - 62 - ERROR - 等待页面失败: com.cmcc.cmrcs.android.ui.activities.ContactDetailActivity
+2019-05-09 17:54:29,089 - meetyou_auto - 73 - ERROR - 等待页面失败!, 未点击【拨打视频通话按钮】!
+2019-05-09 17:54:29,089 - meetyou_auto - 94 - INFO - 检查元素名称是否为【正在等待对方接听...】
+2019-05-09 17:54:39,501 - meetyou_auto - 62 - ERROR - 等待页面失败: com.chinamobile.app.yuliao_business.ui.activity.VoiceCallActivity
+2019-05-09 17:54:39,502 - meetyou_auto - 96 - ERROR - 等待页面失败!未进行下一步操作
+2019-05-09 17:54:40,381 - meetyou_auto - 76 - INFO - E:\python_project\meetyou_automation_pytest\report\picture_save\20190509\175439.png图片保存成功
+2019-05-09 17:54:40,382 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 18:00:31,698 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-09 18:00:31,766 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 18:00:46,444 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 18:00:52,473 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 18:00:52,474 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-09 18:00:57,043 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 18:00:57,043 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 18:00:57,194 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 18:00:58,451 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 18:00:58,451 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 18:00:58,451 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 18:00:58,565 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 18:00:59,532 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 18:00:59,532 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 18:01:00,777 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 18:01:01,888 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 18:01:03,123 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 18:01:03,123 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-09 18:01:05,612 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 18:01:08,252 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-09 18:01:08,253 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 18:01:15,007 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-09 18:01:15,073 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 18:01:31,494 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 18:01:31,495 - meetyou_auto - 33 - INFO - 测试视频通话对方接通后页面
+2019-05-09 18:01:31,654 - meetyou_auto - 31 - ERROR - 【192.168.2.158:5555】设备不存在
+2019-05-09 18:01:32,195 - meetyou_auto - 45 - WARNING - 【PIXEL_XL】连接【com.cmic.college】异常，重启APPIUM服务再次连接
+2019-05-09 18:01:32,196 - meetyou_auto - 32 - ERROR - port 4725 已经存在
+2019-05-09 18:01:32,351 - meetyou_auto - 45 - INFO - 4725端口下的进程14196关闭成功
+2019-05-09 18:01:33,412 - meetyou_auto - 19 - INFO - appium服务127.0.0.1，端口4725启动成功
+2019-05-09 18:01:35,674 - meetyou_auto - 51 - ERROR - 手机连接异常，请检查手机连接，Message: An unknown server-side error occurred while processing the command. Original error: Device 192.168.2.158:5555 was not in the list of connected devices
+
+2019-05-09 18:01:40,675 - meetyou_auto - 71 - INFO - 点击【通讯录】
+2019-05-09 18:01:51,179 - meetyou_auto - 62 - ERROR - 等待页面失败: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 18:01:51,179 - meetyou_auto - 73 - ERROR - 等待页面失败!, 未点击【通讯录】!
+2019-05-09 18:01:53,180 - meetyou_auto - 106 - INFO - 点击【13694245189】
+2019-05-09 18:02:03,823 - meetyou_auto - 62 - ERROR - 等待页面失败: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-09 18:02:03,823 - meetyou_auto - 108 - ERROR - 等待页面失败!, 未点击【13694245189】!
+2019-05-09 18:02:03,824 - meetyou_auto - 71 - INFO - 点击【拨打视频通话按钮】
+2019-05-09 18:02:14,605 - meetyou_auto - 62 - ERROR - 等待页面失败: com.cmcc.cmrcs.android.ui.activities.ContactDetailActivity
+2019-05-09 18:02:14,605 - meetyou_auto - 73 - ERROR - 等待页面失败!, 未点击【拨打视频通话按钮】!
+2019-05-09 18:02:14,606 - meetyou_auto - 94 - INFO - 检查元素名称是否为【正在等待对方接听...】
+2019-05-09 18:02:25,215 - meetyou_auto - 62 - ERROR - 等待页面失败: com.chinamobile.app.yuliao_business.ui.activity.VoiceCallActivity
+2019-05-09 18:02:25,215 - meetyou_auto - 96 - ERROR - 等待页面失败!未进行下一步操作
+2019-05-09 18:02:25,924 - meetyou_auto - 76 - INFO - E:\python_project\meetyou_automation_pytest\report\picture_save\20190509\180225.png图片保存成功
+2019-05-09 18:02:25,924 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-09 18:04:40,204 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-09 18:04:40,274 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-09 18:04:53,952 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-09 18:04:59,373 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-09 18:04:59,374 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-09 18:05:03,278 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-09 18:05:03,279 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-09 18:05:03,453 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 18:05:04,674 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-09 18:05:04,674 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-09 18:05:04,675 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-09 18:05:04,824 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-09 18:05:05,724 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-09 18:05:05,725 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-09 18:05:07,048 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 18:05:08,183 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 18:05:09,450 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-09 18:05:09,451 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-09 18:05:11,890 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-09 18:05:13,859 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-09 18:05:13,862 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 10:15:54,867 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 10:15:54,951 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 10:16:00,015 - meetyou_auto - 45 - WARNING - 【LE_X620】连接【com.cmic.college】异常，重启APPIUM服务再次连接
+2019-05-10 10:16:01,031 - meetyou_auto - 29 - INFO - port 4723不存在，可以使用 
+2019-05-10 10:16:02,049 - meetyou_auto - 19 - INFO - appium服务127.0.0.1，端口4723启动成功
+2019-05-10 10:16:57,499 - meetyou_auto - 13 - ERROR - 添加压缩文件20190510-10--test_report.zip.zip错误，[WinError 2] 系统找不到指定的文件。: 'E:\\python_project\\meetyou_automation_pytest\\report\\report_final\\20190510-10--test_report.zip'
+2019-05-10 10:19:26,234 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 10:19:26,300 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 10:19:41,012 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 10:19:46,586 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 10:19:46,588 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 10:19:50,722 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 10:19:50,722 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 10:19:50,916 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 10:19:52,160 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 10:19:52,160 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 10:19:52,160 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 10:19:52,382 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 10:19:53,264 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 10:19:53,264 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 10:19:55,480 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 10:19:56,661 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 10:19:57,984 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 10:19:57,984 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 10:20:00,437 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 10:20:01,961 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 10:20:01,962 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 10:20:05,243 - meetyou_auto - 11 - INFO - 添加压缩文件20190510-10--test_report.zip.zip成功
+2019-05-10 10:24:08,460 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 10:24:08,563 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 10:24:25,237 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 10:24:30,717 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 10:24:30,717 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 10:24:34,514 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 10:24:34,514 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 10:24:34,608 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 10:24:35,687 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 10:24:35,687 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 10:24:35,687 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 10:24:35,798 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 10:24:36,748 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 10:24:36,748 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 10:24:38,414 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 10:24:39,546 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 10:24:40,822 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 10:24:40,822 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 10:24:43,242 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 10:24:45,029 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 10:24:45,030 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 10:24:49,745 - meetyou_auto - 11 - INFO - 添加压缩文件E:\python_project\meetyou_automation_pytest\report\report_original/20190510-10--test_report.zip成功
+2019-05-10 10:28:42,288 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 10:28:42,475 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 10:28:55,701 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 10:29:00,592 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 10:29:00,593 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 10:29:04,340 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 10:29:04,340 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 10:29:04,446 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 10:29:05,500 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 10:29:05,500 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 10:29:05,500 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 10:29:05,687 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 10:29:06,549 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 10:29:06,549 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 10:29:08,307 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 10:29:09,473 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 10:29:10,687 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 10:29:10,688 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 10:29:12,995 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 10:29:13,795 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 10:29:13,796 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 10:29:16,839 - meetyou_auto - 11 - INFO - 添加压缩文件E:\python_project\meetyou_automation_pytest\report\report_original\20190510-10--test_report.zip成功
+2019-05-10 10:29:17,929 - meetyou_auto - 36 - INFO - ----邮件发送成功,如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确----
+2019-05-10 14:08:03,456 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 14:08:03,533 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 14:08:19,276 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 14:08:25,179 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 14:08:25,179 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 14:08:29,054 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 14:08:29,054 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 14:08:29,162 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:08:30,247 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 14:08:30,247 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 14:08:30,247 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 14:08:30,361 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:08:31,293 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 14:08:31,293 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 14:08:33,488 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:08:34,662 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:08:35,870 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:08:35,871 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 14:08:38,246 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 14:08:39,189 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 14:08:39,190 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 14:08:44,450 - meetyou_auto - 13 - ERROR - 添加压缩文件20190510-14--test_report.zip错误，[WinError 2] 系统找不到指定的文件。: 'E:\\python_project\\meetyou_automation_pytest\\report\\report_original\\20190510-14--test_report.zip'
+2019-05-10 14:10:32,649 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 14:10:32,774 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 14:10:49,670 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 14:10:54,956 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 14:10:54,956 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 14:10:58,638 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 14:10:58,638 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 14:10:58,743 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:10:59,829 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 14:10:59,829 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 14:10:59,829 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 14:10:59,932 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:11:00,882 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 14:11:00,882 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 14:11:02,619 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:11:03,749 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:11:05,020 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:11:05,020 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 14:11:07,385 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 14:11:08,194 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 14:11:08,194 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 14:11:11,181 - meetyou_auto - 11 - INFO - 添加压缩文件20190510-14--test_report.zip成功
+2019-05-10 14:12:14,912 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 14:12:14,991 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 14:12:31,819 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 14:12:37,275 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 14:12:37,275 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 14:12:41,018 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 14:12:41,019 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 14:12:41,151 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:12:42,377 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 14:12:42,377 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 14:12:42,377 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 14:12:42,488 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:12:43,449 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 14:12:43,449 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 14:12:45,288 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:12:46,412 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:12:47,588 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:12:47,588 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 14:12:49,919 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 14:12:50,808 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 14:12:50,809 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 14:12:54,196 - meetyou_auto - 11 - INFO - 添加压缩文件E:\python_project\meetyou_automation_pytest\report\report_original\20190510-14--test_report.zip成功
+2019-05-10 14:12:55,258 - meetyou_auto - 36 - INFO - ----邮件发送成功,如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确----
+2019-05-10 14:15:09,524 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 14:15:09,587 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 14:15:27,596 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 14:15:33,633 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 14:15:33,649 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 14:15:37,554 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 14:15:37,554 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 14:15:37,695 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:15:38,757 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 14:15:38,757 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 14:15:38,757 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 14:15:38,992 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:15:39,820 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 14:15:39,835 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 14:15:41,538 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:15:42,725 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:15:44,006 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:15:44,006 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 14:15:46,581 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 14:15:47,253 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 14:15:47,253 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 14:15:50,989 - meetyou_auto - 11 - INFO - 添加压缩文件E:\python_project\meetyou_automation_pytest\report\report_final\20190510-14--test_report.zip成功
+2019-05-10 14:15:52,504 - meetyou_auto - 36 - INFO - ----邮件发送成功,如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确----
+2019-05-10 14:19:48,865 - meetyou_auto - 11 - INFO - 添加压缩文件luo.zip成功
+2019-05-10 14:21:11,397 - meetyou_auto - 11 - INFO - 添加压缩文件luo.zip成功
+2019-05-10 14:21:25,713 - meetyou_auto - 11 - INFO - 添加压缩文件luo.zip成功
+2019-05-10 14:22:54,555 - meetyou_auto - 13 - ERROR - 添加压缩文件luo.zip错误，[Errno 13] Permission denied: 'e:\\luo_java'
+2019-05-10 14:24:30,673 - meetyou_auto - 13 - ERROR - 添加压缩文件luo.zip错误，writestr() missing 1 required positional argument: 'data'
+2019-05-10 14:33:58,482 - meetyou_auto - 32 - INFO - 添加压缩文件luo.zip成功
+2019-05-10 14:34:05,593 - meetyou_auto - 32 - INFO - 添加压缩文件luo.zip成功
+2019-05-10 14:34:06,553 - meetyou_auto - 32 - INFO - 添加压缩文件luo.zip成功
+2019-05-10 14:34:07,521 - meetyou_auto - 32 - INFO - 添加压缩文件luo.zip成功
+2019-05-10 14:34:51,718 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 14:34:51,790 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 14:35:09,675 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 14:35:15,648 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 14:35:15,650 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 14:35:19,484 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 14:35:19,484 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 14:35:19,626 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:35:20,663 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 14:35:20,664 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 14:35:20,664 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 14:35:20,834 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:35:21,740 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 14:35:21,740 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 14:35:23,533 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:35:24,671 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:35:25,846 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:35:25,846 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 14:35:28,505 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 14:35:29,873 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 14:35:29,876 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 14:35:34,922 - meetyou_auto - 23 - INFO - 添加压缩文件E:\python_project\meetyou_automation_pytest\report\report_final\20190510-14--test_report.zip成功
+2019-05-10 14:35:43,468 - meetyou_auto - 36 - INFO - ----邮件发送成功,如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确----
+2019-05-10 14:46:33,470 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 14:46:33,538 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 14:46:49,891 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 14:46:55,498 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 14:46:55,498 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 14:46:59,498 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 14:46:59,498 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 14:46:59,632 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:47:00,834 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 14:47:00,835 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 14:47:00,835 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 14:47:01,019 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 14:47:01,893 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 14:47:01,893 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 14:47:03,732 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:47:04,859 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:47:06,028 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 14:47:06,028 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 14:47:08,944 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 14:47:10,056 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 14:47:10,058 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 14:47:17,601 - meetyou_auto - 23 - INFO - 添加压缩文件E:\python_project\meetyou_automation_pytest\report\report_final\20190510-1405--test_report.zip成功
+2019-05-10 14:47:21,301 - meetyou_auto - 36 - INFO - ----邮件发送成功,如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确----
+2019-05-10 17:26:28,520 - meetyou_auto - 33 - INFO - 添加压缩文件E:\python_project\meetyou_automation_pytest_allure\report\report_final\20190510-1726--test_report.zip成功
+2019-05-10 17:26:30,318 - meetyou_auto - 36 - INFO - ----邮件发送成功,如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确----
+2019-05-10 17:27:59,101 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 17:27:59,172 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 17:28:14,070 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 17:28:19,107 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 17:28:19,117 - meetyou_auto - 33 - INFO - 验证登录号码是否为指定号码
+2019-05-10 17:28:23,000 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 17:28:23,001 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 17:28:23,185 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 17:28:24,161 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 17:28:24,162 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 17:28:24,162 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 17:28:24,327 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 17:28:25,243 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 17:28:25,244 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 17:28:27,353 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:28:28,552 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:28:29,812 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:28:29,813 - meetyou_auto - 94 - INFO - 检查元素名称是否为【15169032569】
+2019-05-10 17:28:32,247 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 17:28:33,314 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_content')】对应text值【15169032569】正确
+2019-05-10 17:28:33,314 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 17:28:35,913 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【2】========
+2019-05-10 17:28:35,978 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 17:28:53,730 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 17:28:59,393 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 17:28:59,395 - meetyou_auto - 41 - INFO - 验证断网情况下登录页面显示
+2019-05-10 17:29:03,159 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 17:29:03,159 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 17:29:03,320 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 17:29:04,467 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 17:29:04,468 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 17:29:04,468 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 17:29:04,633 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 17:29:05,587 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 17:29:05,587 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 17:29:07,397 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:29:08,614 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:29:10,054 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:29:17,699 - meetyou_auto - 19 - INFO - 飞行模式开启成功
+2019-05-10 17:29:19,700 - meetyou_auto - 94 - INFO - 检查元素名称是否为【网络不可用，请检查网络设置】
+2019-05-10 17:29:19,945 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 17:29:20,049 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tv_error_content')】对应text值【网络不可用，请检查网络设置】正确
+2019-05-10 17:29:42,273 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 17:29:44,276 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 17:29:46,941 - meetyou_auto - 21 - INFO - ========登录模块测试用例执行开始========【3】========
+2019-05-10 17:29:47,010 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 17:30:05,503 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 17:30:12,644 - meetyou_auto - 29 - INFO - 网络数据模式开启成功
+2019-05-10 17:30:12,646 - meetyou_auto - 52 - INFO - 验证登录成功进入主页是否成功
+2019-05-10 17:30:18,337 - meetyou_auto - 72 - INFO - APP重置成功
+2019-05-10 17:30:18,338 - meetyou_auto - 71 - INFO - 点击【跳过】
+2019-05-10 17:30:18,632 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 17:30:20,052 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/skip_btn
+2019-05-10 17:30:20,052 - meetyou_auto - 78 - INFO - 点击【跳过】成功!
+2019-05-10 17:30:20,052 - meetyou_auto - 71 - INFO - 点击【权限弹窗确认】
+2019-05-10 17:30:20,179 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.SplashActivity
+2019-05-10 17:30:21,071 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 17:30:21,071 - meetyou_auto - 78 - INFO - 点击【权限弹窗确认】成功!
+2019-05-10 17:30:22,584 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:30:23,724 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:30:24,929 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:30:24,930 - meetyou_auto - 71 - INFO - 点击【一键登录】
+2019-05-10 17:30:28,825 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 17:30:30,845 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/one_key_login
+2019-05-10 17:30:30,846 - meetyou_auto - 78 - INFO - 点击【一键登录】成功!
+2019-05-10 17:30:30,846 - meetyou_auto - 71 - INFO - 点击【登录弹窗确定】
+2019-05-10 17:30:31,068 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.OneKeyLoginActivity
+2019-05-10 17:30:31,998 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/btnConfirm
+2019-05-10 17:30:31,999 - meetyou_auto - 78 - INFO - 点击【登录弹窗确定】成功!
+2019-05-10 17:30:50,965 - meetyou_auto - 47 - INFO - 点击元素com.android.packageinstaller:id/permission_allow_button
+2019-05-10 17:30:50,966 - meetyou_auto - 71 - INFO - 点击【通讯录tab】
+2019-05-10 17:30:51,181 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-10 17:30:54,956 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-10 17:30:54,957 - meetyou_auto - 78 - INFO - 点击【通讯录tab】成功!
+2019-05-10 17:30:54,957 - meetyou_auto - 71 - INFO - 点击【通讯录tab】
+2019-05-10 17:30:55,127 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-10 17:30:55,995 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-10 17:30:55,995 - meetyou_auto - 78 - INFO - 点击【通讯录tab】成功!
+2019-05-10 17:30:55,995 - meetyou_auto - 94 - INFO - 检查元素名称是否为【通讯录】
+2019-05-10 17:30:56,171 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-10 17:30:57,502 - meetyou_auto - 102 - INFO - 页面元素【('id', 'com.cmic.college:id/tvContact')】对应text值【通讯录】正确
+2019-05-10 17:30:57,504 - meetyou_auto - 28 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 17:31:02,020 - meetyou_auto - 22 - INFO - ========登录模块测试用例执行开始========【1】========
+2019-05-10 17:31:02,092 - meetyou_auto - 29 - INFO - 【LE67A06290097275】设备连接正常
+2019-05-10 17:31:22,158 - meetyou_auto - 42 - INFO - 【LE_X620】连接【com.cmic.college】成功
+2019-05-10 17:31:22,158 - meetyou_auto - 35 - INFO - 测试视频通话对方接通后页面
+2019-05-10 17:31:22,223 - meetyou_auto - 31 - ERROR - 【192.168.2.158:5555】设备不存在
+2019-05-10 17:31:27,233 - meetyou_auto - 45 - WARNING - 【PIXEL_XL】连接【com.cmic.college】异常，重启APPIUM服务再次连接
+2019-05-10 17:31:28,236 - meetyou_auto - 29 - INFO - port 4725不存在，可以使用 
+2019-05-10 17:31:29,296 - meetyou_auto - 19 - INFO - appium服务127.0.0.1，端口4725启动成功
+2019-05-10 17:31:31,517 - meetyou_auto - 51 - ERROR - 手机连接异常，请检查手机连接，Message: An unknown server-side error occurred while processing the command. Original error: Device 192.168.2.158:5555 was not in the list of connected devices
+
+2019-05-10 17:31:36,518 - meetyou_auto - 71 - INFO - 点击【通讯录】
+2019-05-10 17:31:36,636 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-10 17:31:36,827 - meetyou_auto - 47 - INFO - 点击元素com.cmic.college:id/tvContact
+2019-05-10 17:31:36,828 - meetyou_auto - 78 - INFO - 点击【通讯录】成功!
+2019-05-10 17:31:38,829 - meetyou_auto - 106 - INFO - 点击【13694245189】
+2019-05-10 17:31:39,037 - meetyou_auto - 64 - INFO - 等待页面成功: com.cmcc.cmrcs.android.ui.activities.HomeActivity
+2019-05-10 17:31:42,093 - meetyou_auto - 47 - INFO - 点击元素new UiSelector().text("13694245189")
+2019-05-10 17:31:42,093 - meetyou_auto - 114 - INFO - 点击【13694245189】成功!
+2019-05-10 17:31:42,094 - meetyou_auto - 71 - INFO - 点击【拨打视频通话按钮】
+2019-05-10 17:31:52,412 - meetyou_auto - 62 - ERROR - 等待页面失败: com.cmcc.cmrcs.android.ui.activities.ContactDetailActivity
+2019-05-10 17:31:52,412 - meetyou_auto - 73 - ERROR - 等待页面失败!, 未点击【拨打视频通话按钮】!
+2019-05-10 17:31:52,413 - meetyou_auto - 94 - INFO - 检查元素名称是否为【正在等待对方接听...】
+2019-05-10 17:32:02,698 - meetyou_auto - 62 - ERROR - 等待页面失败: com.chinamobile.app.yuliao_business.ui.activity.VoiceCallActivity
+2019-05-10 17:32:02,698 - meetyou_auto - 96 - ERROR - 等待页面失败!未进行下一步操作
+2019-05-10 17:32:03,322 - meetyou_auto - 76 - INFO - E:\python_project\meetyou_automation_pytest_allure\report\picture_save\20190510\173202.png图片保存成功
+2019-05-10 17:32:03,355 - meetyou_auto - 30 - INFO - =============登录模块测试用例执行结束=============
+2019-05-10 17:32:07,483 - meetyou_auto - 33 - INFO - 添加压缩文件E:\python_project\meetyou_automation_pytest_allure\report\report_final\20190510-1727--test_report.zip成功
+2019-05-10 17:32:08,850 - meetyou_auto - 36 - INFO - ----邮件发送成功,如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确----
